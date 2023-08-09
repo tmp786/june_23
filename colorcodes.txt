@@ -1,0 +1,23 @@
+color codes(www.https://encycolorpedia.com)
+
+#5c0e5c--voilet
+
+#520153--voilet (Monochromatic Colors)
+
+#98AFC7-- airforce blue
+
+#102470---blue(Monochromatic Colors)
+
+#12ce78--green
+
+#00aa58--green(Monochromatic Colors)
+
+#0e4e00--green
+
+#004200--green(Monochromatic Colors)
+
+#b31600--red
+
+#9e0000--red(Monochromatic Colors)
+
+#d60005--pink(Monochromatic Colors)
